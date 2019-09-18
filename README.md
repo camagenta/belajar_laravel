@@ -8,3 +8,12 @@ ref : [https://www.malasngoding.com/pengertian-dan-cara-install-laravel/](https:
 note : pas install sudah coba gunakan installer laravel dengan perintal
 
     laravel new belajar_laravel
+
+## Tutorial Laravel #2 : Belajar Route dan View Pada Laravel
+ref : [https://www.malasngoding.com/belajar-route-dan-view-pada-laravel/](https://www.malasngoding.com/belajar-route-dan-view-pada-laravel/)
+note : route ini mirip sama pas belajar CI dulu, MVC
+
+# Tutorial Laravel #3 : Membuat Controller Pada Laravel
+ref: [https://www.malasngoding.com/tutorial-membuat-controller-pada-laravel/](https://www.malasngoding.com/tutorial-membuat-controller-pada-laravel/)
+note : mulai mengenail fungsi lain dari php artisan buat gawe controller. Eh cara routingnya juga ada yang berbeda, langsung Controller@method
+
