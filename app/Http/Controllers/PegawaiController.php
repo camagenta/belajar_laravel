@@ -29,4 +29,18 @@ class PegawaiController extends Controller
         $alamat   = $request->input('alamat');
         return "Nama: ".$nama.", Alamat: ".$alamat;
     }
+
+    public function tambah(){
+        return view('tambah');
+    }
+
+    public function store(Request $request){
+        DB::table('pegawai')->insert([
+            'pegawai_nama' => $request->nama,
+            'pegawai_jabatan' => $request->jabatan,
+            'pegawai_umur' => $request->umur,
+            'pegawai_alamat' => $request->alamat
+        ]);
+        return redirect('/pegawai');
+    }
 }

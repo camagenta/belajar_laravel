@@ -38,5 +38,8 @@ note: woo... templatingnya asik kayaknya nih. @yield => @section
 
 ## Tutorial Laravel #9 : Membuat CRUD Dengan Laravel
 ref: [https://www.malasngoding.com/tutorial-membuat-crud-dengan-laravel/](https://www.malasngoding.com/tutorial-membuat-crud-dengan-laravel/)
-
 note: manggil record dari DB rupanya lebih mudah yo, ini baru pake query builder
+
+## Tutorial Laravel #10 : Membuat CRUD Dengan Laravel Part 2
+ref: [https://www.malasngoding.com/membuat-crud-dengan-laravel-part-2/](https://www.malasngoding.com/membuat-crud-dengan-laravel-part-2/)
+note: nambah mirip dengan CI, lebih simple
