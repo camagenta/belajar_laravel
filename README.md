@@ -23,3 +23,7 @@ note: pasing datanya juga MVC, cuman kok kayaknya lebih simple ya... hehe
 ## Tutorial Laravel #5 : Request Data Pada Laravel
 ref: [https://www.malasngoding.com/request-data-pada-laravel/](https://www.malasngoding.com/request-data-pada-laravel/)
 note: request ini ya tinggal ambil via get atau post. get dari URL, post dari form. ok
+
+## Tutorial Laravel #6 : Maintenance Mode Pada Laravel
+ref: [https://www.malasngoding.com/maintenance-mode-pada-laravel/](https://www.malasngoding.com/maintenance-mode-pada-laravel/)
+note: menarik, cuman in real world apakah ini sama dengan mematikan apache ya? up down tapi tetep serve?
