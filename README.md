@@ -27,3 +27,7 @@ note: request ini ya tinggal ambil via get atau post. get dari URL, post dari fo
 ## Tutorial Laravel #6 : Maintenance Mode Pada Laravel
 ref: [https://www.malasngoding.com/maintenance-mode-pada-laravel/](https://www.malasngoding.com/maintenance-mode-pada-laravel/)
 note: menarik, cuman in real world apakah ini sama dengan mematikan apache ya? up down tapi tetep serve?
+
+## Tutorial Laravel #7 : Konfigurasi Dasar Pada Laravel
+ref: [https://www.malasngoding.com/konfigurasi-dasar-pada-laravel/](https://www.malasngoding.com/konfigurasi-dasar-pada-laravel/)
+note: file .env ini kayak config cuman dijadiin satu aja to sebenarnya. hmmm
