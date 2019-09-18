@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('halo', function () {
+    return 'Selamat daang di tutorial laravel di www.malasngoding.com';
+});
+
+Route::get('blog', function () {
+    return view('blog');
+});
