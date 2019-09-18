@@ -43,3 +43,7 @@ note: manggil record dari DB rupanya lebih mudah yo, ini baru pake query builder
 ## Tutorial Laravel #10 : Membuat CRUD Dengan Laravel Part 2
 ref: [https://www.malasngoding.com/membuat-crud-dengan-laravel-part-2/](https://www.malasngoding.com/membuat-crud-dengan-laravel-part-2/)
 note: nambah mirip dengan CI, lebih simple
+
+## Tutorial Laravel #11 : Membuat CRUD Dengan Laravel Part 3
+ref: [https://www.malasngoding.com/tutorial-crud-laravel/](https://www.malasngoding.com/tutorial-crud-laravel/)
+note: update mirip insert, tinggal di jegal where di paling atas. sempet error ketika manggil edit?id=x

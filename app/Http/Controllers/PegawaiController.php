@@ -43,4 +43,19 @@ class PegawaiController extends Controller
         ]);
         return redirect('/pegawai');
     }
+
+    public function edit($id){
+        $pegawai = DB::table('pegawai')->where('pegawai_id', $id)->get();
+        return view('edit', ['pegawai' => $pegawai]);   
+    }
+
+    public function update(Request $request){
+        DB::table('pegawai')->where('pegawai_id', $request->id)->update([
+            'pegawai_nama' => $request->nama,
+            'pegawai_jabatan' => $request->jabatan,
+            'pegawai_umur' => $request->umur,
+            'pegawai_alamat' => $request->alamat
+        ]);
+        return redirect('/pegawai');
+    }
 }
