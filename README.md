@@ -35,3 +35,8 @@ note: file .env ini kayak config cuman dijadiin satu aja to sebenarnya. hmmm
 ## Tutorial Laravel #8 : Sistem Template Blade Laravel
 ref: [https://www.malasngoding.com/sistem-template-blade-laravel/](https://www.malasngoding.com/sistem-template-blade-laravel/)
 note: woo... templatingnya asik kayaknya nih. @yield => @section
+
+## Tutorial Laravel #9 : Membuat CRUD Dengan Laravel
+ref: [https://www.malasngoding.com/tutorial-membuat-crud-dengan-laravel/](https://www.malasngoding.com/tutorial-membuat-crud-dengan-laravel/)
+
+note: manggil record dari DB rupanya lebih mudah yo, ini baru pake query builder

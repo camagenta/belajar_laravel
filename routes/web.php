@@ -28,6 +28,8 @@ Route::get('/blog/tentang', 'BlogController@tentang');
 Route::get('/blog/kontak', 'BlogController@kontak');
 
 Route::get('dosen', 'DosenController@index');
-Route::get('/pegawai/{nama}', 'PegawaiController@index');
+// Route::get('/pegawai/{nama}', 'PegawaiController@index');
 Route::get('/formulir', 'PegawaiController@formulir');
 Route::post('/formulir/proses', 'PegawaiController@proses');
+
+Route::get('/pegawai', 'PegawaiController@index');
