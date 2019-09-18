@@ -31,3 +31,7 @@ note: menarik, cuman in real world apakah ini sama dengan mematikan apache ya? u
 ## Tutorial Laravel #7 : Konfigurasi Dasar Pada Laravel
 ref: [https://www.malasngoding.com/konfigurasi-dasar-pada-laravel/](https://www.malasngoding.com/konfigurasi-dasar-pada-laravel/)
 note: file .env ini kayak config cuman dijadiin satu aja to sebenarnya. hmmm
+
+## Tutorial Laravel #8 : Sistem Template Blade Laravel
+ref: [https://www.malasngoding.com/sistem-template-blade-laravel/](https://www.malasngoding.com/sistem-template-blade-laravel/)
+note: woo... templatingnya asik kayaknya nih. @yield => @section
