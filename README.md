@@ -55,3 +55,7 @@ note: as simple as that. hehe..... coba kalo mau muncul pop up konfimasi belum t
 ## Tutorial Laravel #13 : Kesimpulan CRUD Laravel Query Builder
 [#](https://www.malasngoding.com/crud-laravel-query-builder/)
 note: CRUD dasarnya mudah dipahami masyaAllah. ini recap aja, edit dan update sudah make crsf
+
+## Tutorial Laravel #14 : Seeding dan Faker Pada Laravel
+[#](https://www.malasngoding.com/seeding-dan-faker-pada-laravel/)
+note: keren nih ya bisa buat dummy data, sebelumnya belum pernah
