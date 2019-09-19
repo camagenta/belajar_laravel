@@ -51,3 +51,7 @@ note: update mirip insert, tinggal di jegal where di paling atas. sempet error k
 ## Tutorial Laravel #12 : Membuat CRUD Dengan Laravel Part 4
 [#](https://www.malasngoding.com/crud-laravel/) 
 note: as simple as that. hehe..... coba kalo mau muncul pop up konfimasi belum tahu ntar caranya bagimana.
+
+## Tutorial Laravel #13 : Kesimpulan CRUD Laravel Query Builder
+[#](https://www.malasngoding.com/crud-laravel-query-builder/)
+note: CRUD dasarnya mudah dipahami masyaAllah. ini recap aja, edit dan update sudah make crsf
