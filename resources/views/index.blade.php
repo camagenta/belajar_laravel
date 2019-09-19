@@ -5,6 +5,14 @@
 </head>
 <body>
 
+	<style type="text/css">
+		.pagination li{
+			float: left;
+			list-style-type: none;
+			margin:5px;
+		}
+	</style>
+
 	<h2>www.malasngoding.com</h2>
 	<h3>Data Pegawai</h3>
 
@@ -35,6 +43,14 @@
 		</tr>
 		@endforeach
 	</table>
+
+	<br/>
+	Halaman : {{ $pegawai->currentPage() }} <br/>
+	Jumlah Data : {{ $pegawai->total() }} <br/>
+	Data Per Halaman : {{ $pegawai->perPage() }} <br/>
+ 
+ 
+	{{ $pegawai->links() }}
 
 
 </body>

@@ -59,3 +59,7 @@ note: CRUD dasarnya mudah dipahami masyaAllah. ini recap aja, edit dan update su
 ## Tutorial Laravel #14 : Seeding dan Faker Pada Laravel
 [#](https://www.malasngoding.com/seeding-dan-faker-pada-laravel/)
 note: keren nih ya bisa buat dummy data, sebelumnya belum pernah
+
+## Tutorial Laravel #15 : Membuat Pagination Pada Laravel
+[#](https://www.malasngoding.com/membuat-pagination-pada-laravel/)
+note: wow simple, jadi tertarik baca dokumentasi soal [paginate](https://laravel.com/docs/6.x/pagination) lebih jauh
