@@ -42,3 +42,6 @@ Route::get('/pegawai/hapus/{id}', 'PegawaiController@hapus');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/input', 'MalasNgodingController@input');
+Route::post('/proses', 'MalasNgodingController@proses');

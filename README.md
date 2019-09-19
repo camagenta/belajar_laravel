@@ -71,3 +71,7 @@ note: gampil yo, jadi tertarik opsi where banyak. ke [doc](https://laravel.com/d
 ## Tutorial Laravel #17 : Menggunakan Bootstrap Di Laravel
 [#](https://www.malasngoding.com/menggunakan-bootstrap-di-laravel/)
 note: sayangnya sejak versi 6, bootstrap di [exclude](https://laravel-news.com/laravel-6). [install dewe](https://github.com/laravel/ui), harus pake npm yo
+
+## Tutorial Laravel #18 : Membuat Form Validasi Pada Laravel
+[#](https://www.malasngoding.com/membuat-form-validasi-pada-laravel/)
+note: validate-nya kayak CI, bisa custom message juga. [Rulenya nih](https://laravel.com/docs/master/validation#available-validation-rules).
