@@ -75,3 +75,7 @@ note: sayangnya sejak versi 6, bootstrap di [exclude](https://laravel-news.com/l
 ## Tutorial Laravel #18 : Membuat Form Validasi Pada Laravel
 [#](https://www.malasngoding.com/membuat-form-validasi-pada-laravel/)
 note: validate-nya kayak CI, bisa custom message juga. [Rulenya nih](https://laravel.com/docs/master/validation#available-validation-rules).
+
+## Tutorial Laravel #19 : Migration Laravel
+[#](https://www.malasngoding.com/migration-laravel/)
+note: baru migration create sih yang dicoba, yg lainnya nanti deh di explore lagi.
