@@ -63,3 +63,7 @@ note: keren nih ya bisa buat dummy data, sebelumnya belum pernah
 ## Tutorial Laravel #15 : Membuat Pagination Pada Laravel
 [#](https://www.malasngoding.com/membuat-pagination-pada-laravel/)
 note: wow simple, jadi tertarik baca dokumentasi soal [paginate](https://laravel.com/docs/6.x/pagination) lebih jauh
+
+## Tutorial Laravel #16 : Membuat Pencarian Pada Laravel
+[#](https://www.malasngoding.com/membuat-pencarian-pada-laravel/)
+note: gampil yo, jadi tertarik opsi where banyak. ke [doc](https://laravel.com/docs/6.x/queries#where-clauses) lagi deh.
