@@ -39,3 +39,6 @@ Route::post('/pegawai/store', 'PegawaiController@store');
 Route::get('/pegawai/edit/{id}', 'PegawaiController@edit');
 Route::post('/pegawai/update', 'PegawaiController@update');
 Route::get('/pegawai/hapus/{id}', 'PegawaiController@hapus');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

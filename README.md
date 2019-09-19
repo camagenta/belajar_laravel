@@ -67,3 +67,7 @@ note: wow simple, jadi tertarik baca dokumentasi soal [paginate](https://laravel
 ## Tutorial Laravel #16 : Membuat Pencarian Pada Laravel
 [#](https://www.malasngoding.com/membuat-pencarian-pada-laravel/)
 note: gampil yo, jadi tertarik opsi where banyak. ke [doc](https://laravel.com/docs/6.x/queries#where-clauses) lagi deh.
+
+## Tutorial Laravel #17 : Menggunakan Bootstrap Di Laravel
+[#](https://www.malasngoding.com/menggunakan-bootstrap-di-laravel/)
+note: sayangnya sejak versi 6, bootstrap di [exclude](https://laravel-news.com/laravel-6). [install dewe](https://github.com/laravel/ui), harus pake npm yo
