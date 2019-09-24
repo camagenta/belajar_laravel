@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
+// #20 memanggil model Pegawai 
+use App\Pegawai;
+
 class PegawaiController extends Controller
 {
     // public function index($nama){
@@ -18,9 +21,26 @@ class PegawaiController extends Controller
         // mengambil data dari table pegawai dengan paginate
         $pegawai = DB::table('pegawai')->paginate(10);
 
+
         // mengirim data pegawai ke view index
         return view('index', ['pegawai' => $pegawai]);
     }
+
+    public function all(){
+
+        // #20 mengambil data dari table pegawai dengan eloquent
+        // $pegawai = Pegawai::all();
+        // $pegawai = Pegawai::first(); -- gagal
+        //  $pegawai = Pegawai::where('pegawai_nama', 'Wira Siregar')->get();
+        //  $pegawai = Pegawai::where('pegawai_id', '>', 10)->get();
+        //  $pegawai = Pegawai::where('pegawai_nama', 'like', '%adi%')->get();
+         $pegawai = Pegawai::paginate(10);
+
+        // mengirim data pegawai ke view index
+        return view('all', ['pegawai' => $pegawai]);
+    }
+
+
 
     public function formulir(){
         return view('formulir');

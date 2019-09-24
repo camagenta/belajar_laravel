@@ -79,3 +79,7 @@ note: validate-nya kayak CI, bisa custom message juga. [Rulenya nih](https://lar
 ## Tutorial Laravel #19 : Migration Laravel
 [#](https://www.malasngoding.com/migration-laravel/)
 note: baru migration create sih yang dicoba, yg lainnya nanti deh di explore lagi.
+
+## Tutorial Laravel #20 : Eloquent Laravel
+[#](https://www.malasngoding.com/eloquent-laravel/)
+note: yang first masih gagal, entah kenapa
