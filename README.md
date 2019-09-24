@@ -83,3 +83,7 @@ note: baru migration create sih yang dicoba, yg lainnya nanti deh di explore lag
 ## Tutorial Laravel #20 : Eloquent Laravel
 [#](https://www.malasngoding.com/eloquent-laravel/)
 note: yang first masih gagal, entah kenapa
+
+## Tutorial Laravel #21 : CRUD Laravel Menggunakan Eloquent
+[#](https://www.malasngoding.com/crud-laravel-menggunakan-eloquent/)
+note: penyesuaian dilakukan, kuro pake tabel mahasiswa bukan pegawai
