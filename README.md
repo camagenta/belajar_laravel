@@ -87,3 +87,7 @@ note: yang first masih gagal, entah kenapa
 ## Tutorial Laravel #21 : CRUD Laravel Menggunakan Eloquent
 [#](https://www.malasngoding.com/crud-laravel-menggunakan-eloquent/)
 note: penyesuaian dilakukan, kuro pake tabel mahasiswa bukan pegawai
+
+Tutorial Laravel #22 : Soft Deletes Laravel
+[#](https://www.malasngoding.com/soft-deletes-laravel/)
+note: sip, sip... selama ini make. cuman gak tahu kalo ternyata logic-nya soft banget.

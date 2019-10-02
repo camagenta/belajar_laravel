@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
-        <title>Tutorial Laravel #21 : CRUD Eloquent Laravel - www.malasngoding.com</title>
+        <title>Tutorial Laravel #22 : SoftDeletes Laravel - www.malasngoding.com</title>
     </head>
     <body>
         <div class="container">

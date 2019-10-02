@@ -18,6 +18,11 @@
                     <a href="/mahasiswa/trash"  class="btn btn-danger">Tong Sampah</a>
                     <br/>
                     <br/>
+                    <a href="/mahasiswa/kembalikan_semua">Kembalikan Semua</a>
+                    |
+                    <a href="/mahasiswa/hapus_permanen_semua">Hapus Permanen Semua</a>
+                    <br/>
+                    <br/>
                     <table class="table table-bordered table-hover table-striped">
                         <thead>
                             <tr>
@@ -32,8 +37,8 @@
                                 <td>{{ $p->nama }}</td>
                                 <td>{{ $p->alamat }}</td>
                                 <td>
-                                    <a href="/mahasiswa/edit/{{ $p->id }}" class="btn btn-warning">Edit</a>
-                                    <a href="/mahasiswa/hapus/{{ $p->id }}" class="btn btn-danger">Hapus</a>
+                                    <a href="/mahasiswa/kembalikan/{{ $p->id }}" class="btn btn-success btn-sm">Restore</a>
+                                    <a href="/mahasiswa/hapus_permanen/{{ $p->id }}" class="btn btn-danger btn-sm">Hapus Permanen</a>
                                 </td>
                             </tr>
                             @endforeach
