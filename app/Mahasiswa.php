@@ -11,4 +11,9 @@ class Mahasiswa extends Model
     protected $table = 'mahasiswa';
     protected $fillable = ['nama', 'alamat'];
     protected $dates = ['deleted_at'];
+
+    public function telepon()
+    {
+    	return $this->hasOne('App\Telepon');
+    }
 }

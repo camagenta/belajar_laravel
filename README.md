@@ -88,6 +88,10 @@ note: yang first masih gagal, entah kenapa
 [#](https://www.malasngoding.com/crud-laravel-menggunakan-eloquent/)
 note: penyesuaian dilakukan, kuro pake tabel mahasiswa bukan pegawai
 
-Tutorial Laravel #22 : Soft Deletes Laravel
+## Tutorial Laravel #22 : Soft Deletes Laravel
 [#](https://www.malasngoding.com/soft-deletes-laravel/)
 note: sip, sip... selama ini make. cuman gak tahu kalo ternyata logic-nya soft banget.
+
+## Tutorial Laravel #23 : Relasi One To One Eloquent
+[#](https://www.malasngoding.com/relasi-one-to-one-eloquent/)
+note: ok, menarik. ada konsep OOPnya jadi langsung dipake. cuman ini beneran harua 1..1. kalo jumlah datanya beda gak jalan. hehe
